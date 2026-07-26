@@ -110,8 +110,8 @@ Smart_Resume_Screening/
 │
 ├── assets/                     # Logos/banners for the UI
 ├── data/
-│   ├── sample_jd.txt            # Sample Job Description
-│   └── sample_resumes/          # Sample candidate resumes (.docx)
+│   ├── sample_requirements.docx            # Sample Job requirements
+│   └── sample_resumes/          # Sample candidate resumes (.pdf)
 │
 ├── src/
 │   ├── _init_.py
@@ -123,7 +123,13 @@ Smart_Resume_Screening/
 │   ├── visualization.py          # Plotly charts & word clouds
 │   └── utils.py                  # Shared helper functions
 │
-└── screenshots/                 # App screenshots for documentation
+└── screenshots/                  # App screenshots for documentation
+    ├── 1-home.png
+    ├── 2-upload.png
+    ├── 3-dashboard.png
+    ├── 4-dashboard.png
+    ├── 5-candidate.png
+    └── 6-about.png
 ```
 
 ---
