@@ -108,7 +108,9 @@ Smart_Resume_Screening/
 ├── .gitignore
 ├── DOCUMENTATION.md
 │
-├── assets/                     # Logos/banners for the UI
+├── assets/                     # Demo video
+|   └── Demo.mp4
+|
 ├── data/
 │   ├── sample_requirements.docx            # Sample Job requirements
 │   └── sample_resumes/          # Sample candidate resumes (.pdf)
