@@ -1,0 +1,43 @@
+Job Title: Data Scientist / Machine Learning Engineer
+
+Company: TechNova Solutions
+
+Location: Bengaluru, India (Hybrid)
+
+Job Summary:
+We are looking for a skilled Data Scientist / Machine Learning Engineer to join our
+growing AI team. The ideal candidate will design, build, and deploy machine learning
+models that solve real business problems, working closely with product and engineering
+teams.
+
+Key Responsibilities:
+- Analyze large datasets to extract actionable insights
+- Build, train, and evaluate machine learning and deep learning models
+- Develop and maintain data pipelines for model training and inference
+- Collaborate with cross-functional teams to deploy models into production
+- Communicate findings clearly to both technical and non-technical stakeholders
+- Stay current with the latest research in machine learning and NLP
+
+Required Skills:
+- Strong programming skills in Python
+- Experience with machine learning frameworks such as scikit-learn, TensorFlow, or PyTorch
+- Solid understanding of statistics, data analysis, and feature engineering
+- Experience with natural language processing (NLP) techniques
+- Proficiency with SQL and relational databases
+- Familiarity with cloud platforms such as AWS or Azure
+- Experience with data visualization tools (e.g. Power BI, Tableau)
+- Version control experience with Git and GitHub
+- Strong communication and problem-solving skills
+- Experience working in Agile/Scrum environments
+
+Preferred Qualifications:
+- Experience with deep learning and large language models (LLMs)
+- Familiarity with Docker and Kubernetes for model deployment
+- Prior experience in a data science or analytics role
+- Bachelor's or Master's degree in Computer Science, Data Science, or a related field
+
+What We Offer:
+- Competitive salary and benefits
+- Flexible hybrid work environment
+- Opportunities for continuous learning and career growth
+- Collaborative and inclusive team culture

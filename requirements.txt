@@ -1,0 +1,43 @@
+# ==========================================================
+# Smart Resume Screening & Candidate Ranking Tool
+# Python dependency list
+# Tested on Python 3.10 / 3.11
+# ==========================================================
+
+# --- Core App Framework ---
+streamlit==1.38.0
+
+# --- Data Handling ---
+pandas==2.2.2
+numpy==1.26.4
+
+# --- NLP / Machine Learning ---
+scikit-learn==1.5.1
+sentence-transformers==3.0.1
+nltk==3.8.1
+spacy==3.7.5
+
+# --- Document Parsing ---
+PyMuPDF==1.24.9
+pdfplumber==0.11.4
+python-docx==1.1.2
+
+# --- Visualization ---
+matplotlib==3.10.3
+plotly==5.23.0
+wordcloud==1.9.3
+
+# --- Utilities ---
+joblib==1.4.2
+
+# ==========================================================
+# NOTE:
+# After installing requirements, run the one-time setup below
+# to download the spaCy language model and NLTK corpora:
+#
+#   python -m spacy download en_core_web_sm
+#   python -m nltk.downloader stopwords punkt
+#
+# The Sentence-Transformers model ("all-MiniLM-L6-v2") is
+# downloaded automatically on first run and cached locally.
+# ==========================================================
