@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧠 Smart Resume Screening & Candidate Ranking Tool
 
 ### An AI-powered recruiter assistant that ranks resumes against a job description in seconds.
@@ -29,6 +27,18 @@ Unlike traditional keyword-only ATS filters, this tool blends:
 
 The result: a ranked, explainable shortlist that recruiters can trust and act on
 immediately, inside a clean, interactive dashboard.
+
+---
+
+# 🚀 Live Demo
+
+🔗 **Web Application**
+
+> **Deployed Streamlit link :**
+
+```
+https://samyak-jain-ibm-pbel-03.streamlit.app/
+```
 
 ---
 
@@ -96,6 +106,7 @@ Smart_Resume_Screening/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── DOCUMENTATION.md
 │
 ├── assets/                     # Logos/banners for the UI
 ├── data/
@@ -103,7 +114,8 @@ Smart_Resume_Screening/
 │   └── sample_resumes/          # Sample candidate resumes (.docx)
 │
 ├── src/
-│   ├── parser.py                 # PDF/DOCX text extraction
+│   ├── _init_.py
+|   ├── parser.py                 # PDF/DOCX text extraction
 │   ├── preprocessing.py          # Text cleaning & tokenization
 │   ├── skills.py                 # Skill dictionary & extraction
 │   ├── similarity.py             # Semantic + TF-IDF similarity scoring
@@ -120,8 +132,8 @@ Smart_Resume_Screening/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Smart_Resume_Screening.git
-cd Smart_Resume_Screening
+git clone https://github.com/samyakjainx/Samyak_Jain_PBEL_3.0.git
+cd Samyak_Jain_PBEL_3.0
 
 # 2. Create a virtual environment (recommended)
 python -m venv venv
@@ -157,11 +169,14 @@ Then, in the app:
 
 ## 📸 Screenshots
 
-> Add your own screenshots to the `screenshots/` folder and reference them below.
 
-| Home | Upload | Dashboard |
+| Home | Upload | Dashboard 1|
 |---|---|---|
-| `screenshots/home.png` | `screenshots/upload.png` | `screenshots/dashboard.png` |
+| <img width="2880" height="1720" alt="home" src="https://github.com/user-attachments/assets/56be7bab-e7ab-4ae5-bd42-dd7aa593dcc3" /> | <img width="2860" height="1632" alt="upload" src="https://github.com/user-attachments/assets/5297881e-a058-47c4-9e2e-fed99505284b" /> | <img width="2866" height="1632" alt="dashboard-1" src="https://github.com/user-attachments/assets/31e71f43-ccfd-4a41-bb7d-32b56ae6b127" /> |
+
+| Dashboard 2| Candidate Explorer | About |
+|---|---|---|
+| <img width="2860" height="1632" alt="dashboard-2" src="https://github.com/user-attachments/assets/5ca5e395-377d-4b5a-ac18-df58c3e79e26" /> | <img width="2864" height="1628" alt="candidate" src="https://github.com/user-attachments/assets/37ea8b10-1535-4ebf-ac3c-cf5e58ab96ea" /> | <img width="2866" height="1634" alt="about" src="https://github.com/user-attachments/assets/8f6c77af-9b73-4f9b-bbe7-4168e8accfb0" /> |
 
 ---
 
@@ -184,9 +199,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**[Your Name]**
+**Samyak Jain**
 AI Intern, IBM PBEL
-📧 your.email@example.com · 🔗 [LinkedIn](#) · 🔗 [GitHub](#)
+
+📧 jain.sam1905@gmail.com · 
+🔗 https://www.linkedin.com/in/samyakjain-ai/ · 
+🔗 https://github.com/samyakjainx
 
 ---
 
